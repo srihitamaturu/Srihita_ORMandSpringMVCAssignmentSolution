@@ -21,7 +21,7 @@
 <body>
 
 	<div class="container">
-		<h1 style="background-color: green; color:white">CUSTOMER RELATIONSHIP MANAGEMENT</h1>
+		<h1 style="background-color: green; color:black">CUSTOMER RELATIONSHIP MANAGEMENT</h1>
 		<hr>
 
 		<!-- Add a button -->
